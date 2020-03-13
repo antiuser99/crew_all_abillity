@@ -1,0 +1,6 @@
+{
+	"name": "crew_all_avillity",
+	"author": "TheOnlyMan",
+	"hooks": 
+			{"hook_id": "lib/managers/playermanager","script_path": "crew.lua"}
+}
